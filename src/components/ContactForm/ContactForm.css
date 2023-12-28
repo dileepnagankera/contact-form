@@ -1,0 +1,7 @@
+.top-button{
+    display: flex;
+    gap: 20px;
+}
+.outline-btn{
+    color: red;
+}
